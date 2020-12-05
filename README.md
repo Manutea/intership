@@ -3,4 +3,4 @@ Adaptive sampling algorithm and sampling reconstruction on CUDA. It was my inter
 
 ![Alt text](Manutea/intership/img/Capture.JPG?raw=true "Optional Title")
 
-![alt text](https://github.com/Manutea/intership/main/img/Capture.JPG?raw=true)
+![alt text](https://github.com/Manutea/intership/master/img/Capture.JPG?raw=true)
